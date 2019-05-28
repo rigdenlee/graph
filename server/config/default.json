@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://rocklee:rocklee@graph-v1vgu.mongodb.net/test?retryWrites=true"
+}
